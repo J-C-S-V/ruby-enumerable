@@ -5,15 +5,13 @@ class MyList
 
   def initialize(*list)
     @list = list
-    print "This is the new list: #{list} \n"
+    print "This is the new list: #{list}\n"
   end
 
-  def sum
-    array = []
+  def each
     @list.each do |element|
-      array.push(element)
+      yield(element)
     end
-    print array
   end
 end
 
