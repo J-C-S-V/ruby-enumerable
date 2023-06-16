@@ -24,9 +24,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Morse_Decoder] `Ruby` <a name="about-project"></a>
+# 📖 [Enumerable] `Ruby` <a name="about-project"></a>
 
-This is the first approach to ruby where my coding partner and I were able to successfully create a morse decoder
+This is the first approach to ruby where my coding partner and I were able to successfully create a enumerable class and module.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -50,7 +50,7 @@ This is the first approach to ruby where my coding partner and I were able to su
 
 ### Key Features <a name="key-features"></a>
 
-- **[Morse Decoding]** This allows the user to convert any Morse code to actual letters, it can convert the letters individually, by words or sentences
+- **[Enumerable]** This allows the user to perform different test cases for an array of numbers given.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -58,7 +58,7 @@ This is the first approach to ruby where my coding partner and I were able to su
 
 ## 🚀 Test Case preview <a name="live-demo"></a>
 
-![image](https://github.com/VelzckC0D3/Decoder_Ruby/assets/92229666/534d1e12-bbd8-40da-94c2-40210f692967)
+![image](https://github.com/J-C-S-V/ruby-enumerable/assets/109441277/533b6bc7-d4eb-44d3-a2d4-56a9510acf9c)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
