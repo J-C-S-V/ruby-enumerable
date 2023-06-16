@@ -8,10 +8,8 @@ class MyList
     print "This is the new list: #{list}\n"
   end
 
-  def each
-    @list.each do |element|
-      yield(element)
-    end
+  def each(&block)
+    @list.each(&block)
   end
 end
 
